@@ -71,22 +71,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashaheem32&theme=darkhub&no-frame=true&row=1&column=7" alt="ashaheem32" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashaheem32&show_icons=true&theme=dark&locale=en" alt="ashaheem32" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashaheem32&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashaheem32" height="165"/>
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashaheem32&theme=dark" alt="ashaheem32" />
