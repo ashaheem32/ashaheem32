@@ -13,10 +13,10 @@
 
 - 🔭 I'm an **AI/ML Engineer** specializing in **LLMs, RAG pipelines, and multi-agent systems**
 - 📝 Published researcher — **JurisGPT**: A RAG-based legal AI achieving **87% citation accuracy** (79% hallucination reduction)
-- 💼 Freelance Coding Expert at **Outlier AI** — 1000+ tasks, 4–5⭐ rating, $3,000+ earned
+- 💼 Freelance Coding Expert at **Outlier AI** — 1000+ tasks, 4–5⭐ rating.
 - 🛠️ I build full-stack AI products using modern tools: **Cursor, Windsurf, v0, Lovable, Replit Agent**
 - 🎓 B.Tech CSE @ **Lovely Professional University** (2022–2026)
-- 🌐 Portfolio: [shaheem.me](https://shaheem.me)
+- 🌐 Portfolio: [shaheem](https://www.shaheeem.me)
 - 📫 Reach me at: **ashaheem32@gmail.com**
 
 ---
